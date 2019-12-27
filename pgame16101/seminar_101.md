@@ -1,6 +1,6 @@
 ### Dirangkum oleh :
-### NPM     : 16091
-### Nama    : Aswan Abdullah
+### NPM     : 121055520116101
+### Nama    : IRMA KRISTIANA HUSEIN
 ***
 ## Materi Seminar I,
 ### Waktu         : 10/12/2019 : 09.45
